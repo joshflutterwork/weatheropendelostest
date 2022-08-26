@@ -10,3 +10,7 @@ dependencies:
   - intl: ^0.17.0
   - equatable: ^2.0.3
 
+I am using FVM to generate flutter sdk version 3.0.0,
+how to run : flutter run
+how to build : flutter build apk
+
