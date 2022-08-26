@@ -9,5 +9,4 @@ dependencies:
   - flutter_bloc: ^8.0.1
   - intl: ^0.17.0
   - equatable: ^2.0.3
-  - flutter_spinkit: ^5.1.0
 
